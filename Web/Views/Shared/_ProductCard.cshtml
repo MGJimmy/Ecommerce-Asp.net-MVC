@@ -1,0 +1,35 @@
+﻿@model DAL.Product
+<div class="col-md-4 box mb-4">
+    <a href="/Product/Show/@Model.ID">
+        <div class="image position-relative overflow-hidden">
+            <img class="w-100" src="~/Content/images/products/@Model.MainImage" alt="img1" width="250" height="250">
+            <img class="top w-100 position-absolute" src="~/Content/images/products/@Model.SecondaryImage" width="250" height="250" alt="img1">
+            <div class="quickview position-absolute w-100 main_color text-center"><i class="fas fa-eye"></i> Quickview</div>
+        </div>
+        </a>
+        <div class="details">
+            <div class="rating">
+                <span>
+                    rate:
+                </span>
+                <span><i class="fas fa-star fa-xs text-secondary"></i></span>
+                <span><i class="fas fa-star fa-xs text-secondary"></i></span>
+                <span><i class="fas fa-star fa-xs text-secondary"></i></span>
+                <span><i class="fas fa-star fa-xs text-secondary"></i></span>
+                <span><i class="fas fa-star fa-xs text-secondary"></i></span>
+            </div>
+
+            <p class="name my-0 text-secondary">@Model.Name</p>
+            <p class="price font-weight-bold text-danger">@Model.Price</p>
+        </div>
+        <div class="option text-secondary border-top py-2">
+            <div class="add_chart float-left">
+                <i class="fas fa-shopping-bag"></i>
+                @Html.ActionLink("Add to chart", "addtocart", new { product = @Model.ID })
+            </div>
+            <div class="fav float-right">
+                <i class="fas fa-heart fa-lg"></i>
+                @Html.ActionLink(" Wishlist", "addtowishlist", new { product = @Model.ID })
+            </div>
+        </div>
+</div>

@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<h1>This is the DashBoard</h1>
+@if (TempData.ContainsKey("Msg"))
+{
+    <div class="alert alert-success">@TempData["Msg"].ToString()</div>
+}
+

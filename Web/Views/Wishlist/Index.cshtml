@@ -1,0 +1,42 @@
+﻿@model DAL.Wishlist
+@{
+    ViewBag.Title = "Wishlist";
+    Layout = "~/Views/Shared/_LayoutSite.cshtml";
+}
+
+<h2 class="text-center mt-5 pt-5">Wishlist</h2>
+<section id="wishListPage" class="wishListPage ">
+    <div class="container">
+        <h2 class="cartName text-center display-3 my-5">WishList</h2>
+        <table class="table my-5 productsContainer">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Image</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Add to cart</th>
+                    <th scope="col"><i class="fas fa-trash-alt"></i></th>
+                </tr>
+            </thead>
+            <tbody id="wishListBody">
+                @foreach (var product in Model.Products)
+                {
+                    <tr data-id=" value.id ">
+                        <td scope="row" class="image"><img class="w-100" src="~/Content/images/@product.MainImage"></td>
+                        <td class="align-middle"> @product.Name</td>
+                        <td class="cartItemPrice align-middle font-weight-bold">$@product.Price </td>
+                        <td class="itemTotPriceDiv align-middle">
+                            <a href="/Shop/AddToCart?productId=@product.ID" class="addToChart btn btn-primary my-3 mr-3" data-id=" value.id "><i class="fa fa-cart-plus"></i>Add to Cart</a>
+                            @*<button type="button" class="addedToChart btn btn-success my-3 mr-3" data-id=" value.id "><i class="fas fa-check"></i> Added to Cart</button>*@
+                        </td>
+                        <td id="deleteItem" class="align-middle deleteItem"> <a href="/Wishlist/RemoveProduct?productId=@product.ID"><i class="fas fa-trash-alt"></i></a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="row">
+            <div class="col-md-6"><button type="button" id="goToCart" class="btn btn-primary d-inline-block ml-auto">Go to cart</button></div>
+        </div>
+    </div>
+</section>
+

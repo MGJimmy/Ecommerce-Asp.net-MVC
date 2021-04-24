@@ -1,0 +1,25 @@
+﻿@model DAL.Product
+
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/Shared/_LayoutSite.cshtml";
+};
+
+<section id="singleProductPage">
+    <div class="container">
+        <div id="singleProductContainer" class="row productsContainer">
+            <div class="col-md-6"><img src="~/Content/images/products/@Model.MainImage" class="w-100"></div>
+            <div class="col-md-6">
+                <h2 class="my-3 display-3">@Model.Name </h2>
+                <div class="my-3 font-italic h2">$@Model.Price</div>
+                <div class="description my-3">Description: @Model.Description</div>
+                <div class="description my-3">Quantity: @Model.Quantity</div>
+                <div class="colors my-3"><span class="font-weight-bold">Color : </span>@Model.Color.ColorName</div>
+                <a type="button" class="addToChart  btn btn-primary my-3 mr-3" href="/AddToCart/@Model.ID"><i class="fa fa-cart-plus"></i> Add to Cart</a>
+                <a type="button" class="addToWishList  btn btn-secondary my-3" href="/AddToWishlist/@Model.ID"><i class="fa fa-heart" aria-hidden="true"></i> Add to WishList</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+

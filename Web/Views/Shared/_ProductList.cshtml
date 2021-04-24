@@ -1,0 +1,9 @@
+﻿@model IEnumerable<DAL.Product>
+<p> No OF Product  : @Model.Count() </p>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            Html.RenderPartial("_productCard", item);
+        }
+       </div>

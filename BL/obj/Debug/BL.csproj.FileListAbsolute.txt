@@ -1,0 +1,128 @@
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\BL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\BL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\BL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\AutoMapper.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.Security.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Newtonsoft.Json.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Owin.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\DAL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\AutoMapper.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.Security.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\bin\Debug\Newtonsoft.Json.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\obj\Debug\BL.csproj.CopyComplete
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\obj\Debug\BL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\BL\obj\Debug\BL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\obj\Debug\BL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\obj\Debug\BL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\BL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\BL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\BL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\AutoMapper.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.Security.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Newtonsoft.Json.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Owin.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\DAL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\AutoMapper.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.Security.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\bin\Debug\Newtonsoft.Json.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce-Test\BL\obj\Debug\BL.csproj.CopyComplete
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\BL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\BL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\BL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\AutoMapper.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.Security.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Newtonsoft.Json.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Owin.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\DAL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\AutoMapper.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.Security.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\bin\Debug\Newtonsoft.Json.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\obj\Debug\BL.csproj.CopyComplete
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\obj\Debug\BL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\BL\obj\Debug\BL.pdb
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\obj\Debug\BL.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\obj\Debug\BL.pdb
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\BL.dll.config
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\BL.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\BL.pdb
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\AutoMapper.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\DAL.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\EntityFramework.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.Security.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Newtonsoft.Json.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Owin.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\DAL.pdb
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\DAL.dll.config
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\AutoMapper.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\EntityFramework.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.Security.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\bin\Debug\Newtonsoft.Json.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\BL\obj\Debug\BL.csproj.CopyComplete

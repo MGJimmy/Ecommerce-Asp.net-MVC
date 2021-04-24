@@ -1,0 +1,117 @@
+﻿@model IEnumerable<DAL.Product>
+
+@{
+    ViewBag.Title = "Products";
+}
+
+<h2 class="text-center display-3">Products</h2>
+@if(TempData["successMsg"] != null)
+{
+<div class="alert alert-success temporaryMsg">@TempData["successMsg"]</div>
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PriceSale)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MainImage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SecondaryImage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AnotherImage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr class="productRow">
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+                <input type="hidden" class="productId" value="@item.ID" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rate)
+            </td>
+            <td class="productQuantity">
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceSale)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MainImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SecondaryImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnotherImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color.ColorName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+@section scripts{
+    <script src="~/Scripts/jquery.signalR-2.4.1.js"></script>
+    <script src="~/signalr/js"></script>
+    <script>
+        //Proxy hub
+        var proxy = $.connection.ProductHub;
+        $.connection.hub.start()
+        proxy.client.NewQuantity = function (productid, newQuantity) {
+            let productQuantityColumn = $('.productQuantity')
+            for (var i = 0; i < productQuantityColumn.length; i++) {
+                let HtmlProductId = parseInt($(productQuantityColumn[i]).parents('.productRow').find('.productId').val());
+                if (HtmlProductId == productid)
+                {
+                    $(productQuantityColumn[i]).html(newQuantity);
+                }
+            }
+        }
+
+
+    </script>
+}

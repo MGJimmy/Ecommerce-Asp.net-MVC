@@ -1,0 +1,99 @@
+﻿@model BL.ViewModels.UserShippingInfoViewModel
+
+@{
+    ViewBag.Title = "Checkout";
+    Layout = "~/Views/Shared/_LayoutSite.cshtml";
+}
+
+<h2 class="text-center mt-5 pt-5">Checkout</h2>
+
+<section id="checkoutPage" class="checkoutPage">
+    <div class="container">
+        <h2 class="cartName text-center display-3 my-5">Checkout</h2>
+        <form id="checkoutForm" class="w-100" method="post" action="/Checkout/Done">
+
+            @Html.AntiForgeryToken()
+            <div class="row">
+                <div class="col-md-7">
+                    <h3 class="mb-3">Billing details</h3>
+                    <div class="form-horizontal">
+                        <hr />
+                        <input type="hidden" id="userId" value="@ViewBag.userId"/>
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Country, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Country, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Country, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.City, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.City, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.City, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.Street, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.Street, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Street, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.PaymentCard, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.PaymentCard, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.PaymentCard, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <h3 class="mb-3">Your order</h3>
+                    <table class="table table-striped mt-5">
+                        <tbody>
+                            <tr>
+                                <td scope="row">Products price</td>
+                                <td id="checkoutPrice">$@ViewBag.ProductsTotalPrice</td>
+                            </tr>
+                            <tr>
+                                <td scope="row">Shipping</td>
+                                <td>$0.00</td>
+                            </tr>
+                            <tr>
+                                <td>Total price</td>
+                                <td id="checkoutTotPrice">$@(ViewBag.ProductsTotalPrice)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <button id="checkoutComplete" type="submit" value="Done" class="btn btn-dark btn-lg w-100">Checkout</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery.signalR-2.4.1.js"></script>
+    <script src="~/signalr/js"></script>
+    <script>
+        //Proxy hub
+        var proxy = $.connection.ProductHub;
+        //connect hub
+        $.connection.hub.start().done(
+            function () {
+                $("#checkoutComplete").click(function () {
+                    var userId = $("#userId").val();
+                    proxy.server.DecreaseQuantity(userId);
+                });
+            });
+    </script>
+}

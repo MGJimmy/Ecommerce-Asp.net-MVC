@@ -1,0 +1,56 @@
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\DAL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.Migrations.init.resources
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce\DAL\obj\Debug\DAL.Migrations.init1.resources
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\DAL.dll.config
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.dll
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.pdb
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.Migrations.init.resources
+F:\ITI Courses\22- Asp.net MVC\MVCProject\ECommerce using Rep\StyleFord-Ecommerce 2.0\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\DAL.dll.config
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\DAL.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\DAL.pdb
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\EntityFramework.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\EntityFramework.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.Migrations.init.resources
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.dll
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.pdb
+F:\.Programming\Portifolio\DotNet\Asp.net MVC\Ecommerce-EF6-CF-MVC\DAL\obj\Debug\DAL.Migrations.innnn.resources

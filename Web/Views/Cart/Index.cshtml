@@ -1,0 +1,84 @@
+﻿@model ICollection<DAL.CartProduct>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutSite.cshtml";
+}
+
+<h2 class="text-center mt-5 pt-5">Cart</h2>
+<section id="cartPage" class="cartPage">
+    <div class="container">
+        <h2 class="cartName text-center display-3 my-5">Cart</h2>
+        <table class="table my-5 ">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Image</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Total Price</th>
+                    <th scope="col"><i class="fas fa-trash-alt"></i></th>
+                </tr>
+            </thead>
+            <tbody id="cartBody">
+                @foreach (var cartProduct in Model)
+                {
+                    <tr class="productRow">
+                        <td scope="row" class="image"><img class="w-100" src="~/Content/images/@cartProduct.Product.MainImage"></td>
+                        <td class="align-middle"> @cartProduct.Product.Name </td>
+                        <td class="cartItemPrice align-middle">
+                            $@cartProduct.Product.Price
+                            <input type="hidden" id="productPrice" value="@cartProduct.Product.Price"/>
+                        </td>
+                        <td class="align-middle"> 
+                            <input type="number" class="itemQuantity" value="@cartProduct.Quantity"min="0" max="@cartProduct.Product.Quantity"> 
+                        </td>
+                        <td class="align-middle">
+                            $<span class="productTotalPrice">@(cartProduct.Product.Price*cartProduct.Quantity) </span>
+                            </td>
+                        <td id="deleteItem" class="align-middle deleteItem"><a href="/Cart/RemoveProduct?productId=@cartProduct.Product.ID"> <i class="fas fa-trash-alt"></i></a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="row">
+            <div class="col-md-6"><div id="totallprice"></div></div>
+            <div  class="col-md-6"><button type="button" id="goToCheckout" class="btn btn-primary d-inline-block ml-auto">Checkout</button></div>
+        </div>
+    </div>
+</section>
+
+@section scripts{
+
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            //compute total price on quantity change
+            $('.itemQuantity').on('keyup mouseup', function () {
+                let newProductQuantity = parseFloat($(this).val());
+                let productPrice = parseFloat($(this).parents('.productRow').find('#productPrice').val());
+                $(this).parents('.productRow').find('.productTotalPrice').html(productPrice * newProductQuantity);
+            })
+            $('#goToCheckout').on('click', SendQuantity);
+
+            function SendQuantity() {
+                let AllProductsSelectedQuantity = [];
+                var productsQuantityInputs = $('.itemQuantity');
+                for (var i = 0; i < productsQuantityInputs.length; i++) {
+                    AllProductsSelectedQuantity.push($(productsQuantityInputs[i]).val());
+                }
+                $.ajax({
+                    url: '@Url.Action("getQuantity", "Cart")',
+                    type: 'Post',
+                    datatype: "Html",
+                    data: {
+                        newQuantity: AllProductsSelectedQuantity
+                    },
+                    success: function (response) {
+                        window.location.href = response.Url;  
+                    }
+                });
+            }
+        })
+    </script>
+    }
+
